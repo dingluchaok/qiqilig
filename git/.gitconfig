@@ -1,0 +1,9 @@
+[user]
+	name = ding.luchao
+	email = ding.luchao@theadventus.com
+[alias]
+	ci = commit -a -v
+	throw = reset --hard HEAD
+	throwh = reset --hard HEAD^
+[core]
+	editor = vim
